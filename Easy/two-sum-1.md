@@ -32,7 +32,7 @@ var twoSum = function (nums, target) {
 ```
 
 # Optimized Solution
-```
+```js
 var twoSum = function(nums, target) {
     let storage = new Map()
     for (let i = 0; i < nums.length; i++){

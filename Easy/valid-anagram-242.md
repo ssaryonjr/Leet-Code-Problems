@@ -1,3 +1,5 @@
+
+
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 My first thoughts was I needed to use a hash map.. I heard Leon said "when in doubt, use a hash map!" And that's exactly what worked. Going into the problem I know I needed to figure out how many times each character in the string would repeat and have somewhere to store that data. 
@@ -18,7 +20,7 @@ My first thoughts was I needed to use a hash map.. I heard Leon said "when in do
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
 # Code
-```
+```js
 /**
  * @param {string} s
  * @param {string} t
